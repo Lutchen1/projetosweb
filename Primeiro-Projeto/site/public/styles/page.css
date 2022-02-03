@@ -1,0 +1,60 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.header,.footer{
+    background-color: orange;
+    color: white;
+    padding: 8px 16px;
+    text-align: center;
+}
+
+.receita-cartao{
+    text-align: center;
+    min-width: 320px;
+    max-width: 345px;
+    margin: 16px auto;
+    box-shadow: 1px 1px 5px rgb(0, 0, 0, .2);
+}
+
+.receita-imagem{
+    max-width: 100%;
+}
+
+.receita-categoria{
+    max-width: 100%;
+    padding: 8px 16px;
+    color:silver;
+    text-transform: uppercase;
+}
+
+.receita-nome{
+    padding: 4px 12px;
+}
+
+.receita-corpo h2{
+    color:orange;
+}
+
+.receita-corpo li{
+    padding: 12px;
+}
+
+
+.receita-corpo{
+
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 12px;
+
+}
+
+.receita-corpo-nome{
+    text-align: center;
+}
+
+.receita-corpo-img{
+    max-width: 100%;
+    margin: 0 auto;
+}
