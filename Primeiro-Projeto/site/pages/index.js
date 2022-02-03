@@ -15,6 +15,7 @@ export default function index(){
       linkimg="https://www.acasaencantada.com.br/wp-content/uploads/2021/05/casaencantada_capablog_bolo-de-cenoura.png.webp"   
       categ="Bolos" 
       recei="Bolo de Cenoura" />
+	  
             
       <Cards link="/doces/brigadeiro" 
       linkimg="https://cdn.panelinha.com.br/receita/958014000000-Brigadeiro.jpg" 
