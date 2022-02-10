@@ -19,7 +19,7 @@ var myArray = [12,32,43,54,65,76]
 //Transforma a string em JSON.
 //JSON.parse(myString)
 
-//lalal12345
+//lalal12345 lskdl al skf sl
 //objeto elevador com funções para subir e descer.
 var elevator = {
     floor:0,
